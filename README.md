@@ -10,6 +10,8 @@
 
 ### 一键安装脚本windows版：仓库中有windows一键安装脚本.bat
 
+### demo：http://tool.ongwu.cn/Ongwu-Reveal
+
 ### 主题截图：
 <img width="2240" height="2104" alt="localhost_4000_" src="https://github.com/user-attachments/assets/7d3562e1-4b62-405f-9375-6a9dd90b23e9" />
 
